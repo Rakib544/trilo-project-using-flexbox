@@ -1,0 +1,23 @@
+{
+  "name": "trillo-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass sass/main.scss css/style.css -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakib544/trilo-project-using-flexbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakib544/trilo-project-using-flexbox/issues"
+  },
+  "homepage": "https://github.com/Rakib544/trilo-project-using-flexbox#readme",
+  "dependencies": {
+    "node-sass": "^7.0.0"
+  }
+}
